@@ -1,0 +1,32 @@
+{
+    "Sal\u00f3n 101": {
+        "temperature": 23.5,
+        "humidity": 45.0,
+        "co2": 750,
+        "last_updated": "13:02:58",
+        "emergency": false
+    },
+    "Laboratorio 203": {
+        "emergency": false
+    },
+    "Sal\u00f3n 102": {
+        "temperature": 45.5,
+        "humidity": 15.0,
+        "co2": 751,
+        "last_updated": "13:56:48",
+        "emergency": false
+    },
+    "Sal\u00f3n 203": {
+        "temperature": 5.0,
+        "humidity": 10.0,
+        "co2": 100,
+        "last_updated": "13:57:50"
+    },
+    "Sal\u00f3n 300": {
+        "temperature": 22.0,
+        "humidity": 50.0,
+        "co2": 600,
+        "last_updated": "13:06:14",
+        "emergency": false
+    }
+}
